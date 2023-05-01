@@ -10,15 +10,20 @@ A full stack CRUD application, an employee management application.
 
 ## Development Environment:
 
-To develop this application I used NodeJS, ExpressJs, and MongoDB. For API routing, I used PostMan.
+To develop this application the three main frameworks I used were NodeJS, ExpressJs, and MongoDB.
 
-### Node version:
+- Node version: 1.0.0
 
-### Express version:
+- Express version: 4.18.2
 
-### MongoDB version:
+- MongoDB version: 7.1.0
 
 ## Installation/Running Instructions:
+
+In the terminal enter the following commands:
+
+1. npm i --force
+2. node server.js
 
 Include any instructions on how to get the project up and running. Assume someone that doesn’t know how to run an Express or Node JS application. Give the steps from a cloned repository to install dependencies and start the application.
 
@@ -28,4 +33,6 @@ Include here things you learned, challenges or problems you faced, and any detai
 
 ## References:
 
--
+As I had a difficult time getting some of the CRUD functions to work, I used this tutorial to guide me through the process.
+
+- https://www.youtube.com/watch?v=W1Kttu53qTg&t=6360s&ab_channel=DailyTuition
