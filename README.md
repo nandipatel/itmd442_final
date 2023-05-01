@@ -12,7 +12,7 @@ A full stack CRUD application, an employee management application.
 
 To develop this application the three main frameworks I used were NodeJS, ExpressJs, and MongoDB.
 
-- Node version: 1.0.0
+- Node version: 16.13.0
 
 - Express version: 4.18.2
 
