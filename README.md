@@ -10,7 +10,7 @@ A full stack CRUD application, an employee management application.
 
 ## Development Environment:
 
-To develop this application the three main frameworks I used were NodeJS, ExpressJs, and MongoDB.
+To develop this application the three main frameworks I used were NodeJS, ExpressJs, and MongoDB. The computer I used to work on the application was a Macbook Pro 2019, running Ventura 13.3.1. To write and edit the application code I used Visual Studio Code, version 1.77.3.
 
 - Node version: 16.13.0
 
