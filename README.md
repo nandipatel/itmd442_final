@@ -23,7 +23,7 @@ To develop this application the three main frameworks I used were NodeJS, Expres
 In the terminal enter the following commands:
 
 1. npm i --force
-2. nodemon server.js
+2. npm start
 
 Include any instructions on how to get the project up and running. Assume someone that doesn’t know how to run an Express or Node JS application. Give the steps from a cloned repository to install dependencies and start the application.
 
