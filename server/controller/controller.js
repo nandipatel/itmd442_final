@@ -22,14 +22,13 @@ exports.create = (req,res)=>{
         .save(user)
         .then(data => {
             //res.send(data)
-            res.redirect('/add_user');
+            res.redirect('/');
         })
         .catch(err =>{
             res.status(500).send({
                 message : err.message || "An error occured trying to add an employee, try again!"
             });
         });
-
 }
 
 // showing an employee or all employees
@@ -71,7 +70,8 @@ exports.update = (req, res)=>{
             if(!data){
                 res.status(404).send({ message : `Cannot Update user with ${id}!`})
             }else{
-                res.send(data)
+                //res.send(data)
+                res.redirect('/')
             }
         })
         .catch(err =>{
