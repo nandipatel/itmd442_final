@@ -27,9 +27,18 @@ app.use('/css', express.static(path.resolve(__dirname, "components/css")))
 app.use('css/style.css', express.static(path.resolve(__dirname, "components/css")))
 app.use('/js', express.static(path.resolve(__dirname, "components/js")))
 
-
+// GETTING PAGES:
+// index page
 app.get('/', (req, res)=>{
-    res.send("CRUD Employee Management Application")
+    res.render('index');
+})
+// add_user page
+app.get('/add_user', (req, res)=>{
+    res.render('add_user');
+})
+// updating user
+app.get('/update_user', (req, res)=>{
+    res.render('update_user');
 })
 
 app.listen(PORT, ()=> { console.log(`Server's running on http://localhost:${PORT}`)});

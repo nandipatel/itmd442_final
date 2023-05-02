@@ -33,6 +33,6 @@ Include here things you learned, challenges or problems you faced, and any detai
 
 ## References:
 
-As I had a difficult time getting some of the CRUD functions to work, I used this tutorial to guide me through the process.
+As I had a difficult time getting some of the CRUD functions to work, I used this tutorial to guide me through the process. For styling, I used the tutorial's general styling and framework and adjusted from there.
 
 - https://www.youtube.com/watch?v=W1Kttu53qTg&t=6360s&ab_channel=DailyTuition
