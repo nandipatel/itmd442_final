@@ -27,7 +27,7 @@ In the terminal enter the following commands:
 
 ## Insights and Results:
 
-While using the tutorial helped me understand how files and routes are connected, some parts got a little complicated as I was trying to adjust to based on what I wanted my application to do. I think I was better
+While using the tutorial helped me understand how files and routes are connected, some parts got a little complicated as I was trying to adjust to based on what I wanted my application to do. I think I can better understand how a full-stack application is connected, and I was able to get more experience with express and ejs. I didn't make it as far as I would have liked, but I was able to get further and make more progress from the past labs. Additionally, while I had the base code to assist me in writing my application, I was able to dig deep and figure out why certain features weren't working, and how to fix and solve various problems.
 
 ## References:
 
@@ -37,10 +37,10 @@ As I had a difficult time getting some of the CRUD functions to work, I used thi
 
 ## Artifacts
 
-[image](/images/Index.png)
-[image](/images/add1.png)
-[image](/images/add2.png)
-[image](/images/edit1.png)
-[image](/images/edit2.png)
-[image](/images/delete1.png)
-[image](/images/delete2.png)
+- [Index](/images/Index.png)
+- [Add 1](/images/add1.png)
+- [Add 2](/images/add2.png)
+- [Update 1](/images/edit1.png)
+- [Update 2](/images/edit2.png)
+- [Delete 1](/images/delete1.png)
+- [Delete 2](/images/delete2.png)
