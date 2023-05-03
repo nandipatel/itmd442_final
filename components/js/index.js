@@ -1,7 +1,7 @@
 // adding requests and messages based on the chnages and updates made on the app
 
 $("#add_user").submit(function(event){
-    alert("Data Inserted Successfully!");
+    alert("Employee Added Successfully!");
 })
 
 $("#update_user").submit(function(event){
@@ -19,7 +19,9 @@ $("#update_user").submit(function(event){
         "data" : data
     }
 
-    $.ajax(request).done(function(response){
+    alert("Employee Updated Successfully!");
+    
+    $.ajax(request).done(function(){
         alert("Employee Updated Successfully!");
     })
 

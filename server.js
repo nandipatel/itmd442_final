@@ -27,7 +27,7 @@ app.set("view engine", "ejs")
 //loading the components (css & js)
 //not sure which will load  --> will test after
 app.use('/css', express.static(path.resolve(__dirname, "components/css")))
-app.use('css/style.css', express.static(path.resolve(__dirname, "components/css")))
+//app.use('css/style.css', express.static(path.resolve(__dirname, "components/css")))
 app.use('/js', express.static(path.resolve(__dirname, "components/js")))
 
 // loading router
